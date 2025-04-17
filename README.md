@@ -20,10 +20,11 @@ Step-by-step instructions to run the notebook or application.
 - pandas
 - scikit-learn
 - matplotlib
-
+- numpy
 ## Demo
 (Include screenshots, GIFs, or a video link if available)
 
 ## Acknowledgements
-Mention any external libraries, tutorials, or datasets used.
+Dataset used is the Student Perfomance Prediction by Haseeb_in_Data on kaggle
+https://www.kaggle.com/datasets/haseebindata/student-performance-predictions?select=best_student_performance_model.pkl
 
