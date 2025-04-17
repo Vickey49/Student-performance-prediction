@@ -1,5 +1,5 @@
 # Student-performance-prediction
-#ollaborators
+Collaborators
 Yna Ooro-673745
 Basil Simon-672261
 Lidya Ghilay-673230
@@ -16,10 +16,10 @@ Step-by-step instructions to run the notebook or application.
 
 ## Requirements
 - Python 3.10
+- seaborn
 - pandas
 - scikit-learn
 - matplotlib
-(Add others as needed)
 
 ## Demo
 (Include screenshots, GIFs, or a video link if available)
